@@ -20,23 +20,23 @@ public class Price_Chapter08 {
   			System.out.println(userAge + "代の料金は"+ serviceCost +"円");
 				}
 	   case 40  -> {
-  			serviceCost=4000;
+  			serviceCost=3000;
   			System.out.println(userAge + "代の料金は"+ serviceCost +"円");
 				}
 	   case 50  -> {
-  			serviceCost=5000;
+  			serviceCost=4000;
   			System.out.println(userAge + "代の料金は"+ serviceCost +"円");
 				}
 	   case 60  -> {
-  			serviceCost=6000;
+  			serviceCost=4000;
   			System.out.println(userAge + "代の料金は"+ serviceCost +"円");
 				}
 	   case 70  -> {
-  			serviceCost=7000;
+  			serviceCost=4000;
   			System.out.println(userAge + "代の料金は"+ serviceCost +"円");
 				}
 	   case 80  -> {
-  			serviceCost=8000;
+  			serviceCost=5000;
   			System.out.println(userAge + "代の料金は"+ serviceCost +"円");
 				}
 	   default -> {
